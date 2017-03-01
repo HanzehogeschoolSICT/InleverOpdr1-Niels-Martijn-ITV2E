@@ -10,7 +10,6 @@ public class Main extends Application implements Runnable{
 	public static Screen screen;
 	public Sort sort;
 	private int[] mixedArray;
-	//private int[] mixedArray = {1,2,3,4,5,6,7,8,9,10,12,11};
 	private static int arraySize = 12;
 	private Thread sortThread;
 	private int sleepTime;
