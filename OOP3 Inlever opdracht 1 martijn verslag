@@ -1,0 +1,25 @@
+OOP3 Inlever opdracht 1 verslag
+Martijn Wiekens, 344124, ITV2E
+
+Result
+Compliance: 7/10
+Passed:
+- Write short units of code
+- Write simple units of code
+- Write code once
+- Keep unit interfaces small
+- Couple architecture components loosely
+- Keep your code base small
+- Write clean code
+
+Failed:
+- Seperate concerns in modules
+- Keep architecture components balanced
+- Automate Tests
+
+Bespreking
+De 7 die we hebben gekregen is prima. Tijdens het ontwikkelen hebben we niet echt gedacht aan de bettercodehub. 
+Het enige waar we op gelet hebben is de max 15 regels in een method. De punten die we niet hebben zijn ook minder belangrijk. 
+Zoals automatisch testen, het is een kleine applicatie en is daarom ook niet echt nodig. 
+Daarnaast is seperate concerns in modules lastig om te doen omdat alles aan elkaar gekoppelt moet worden.
+De belangrijkste onderdelen zoals write short units of code, write simple units of code zijn belangrijke onderdelen in de bettercodehub en daarop hebben we allemaal een punt gekregen.
